@@ -4,7 +4,7 @@ A responsive website built with HTML and CSS showcasing card designs.
 
 ## Live Demo
 
-Check out the live demo: [Cardsblogs](https://muqsit-09.github.io/Cardsblogs/)
+Check out the live demo: <a href="https://muqsit-09.github.io/Cardsblogs/" target="_blank">Cardsblogs</a>
 
 ## Installation
 
